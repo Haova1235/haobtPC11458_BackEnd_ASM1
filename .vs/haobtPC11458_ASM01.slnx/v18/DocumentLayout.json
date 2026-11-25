@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\backend_project\\ASM1-Test\\haobtPC11458_ASM01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D00D269-DF34-84E5-CB52-BD6FAF76EDD4}|haobtPC11458_ASM01\\haobtPC11458_ASM01.csproj|d:\\backend_project\\asm1-test\\haobtpc11458_asm01\\haobtpc11458_asm01\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D00D269-DF34-84E5-CB52-BD6FAF76EDD4}|haobtPC11458_ASM01\\haobtPC11458_ASM01.csproj|solutionrelative:haobtpc11458_asm01\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D00D269-DF34-84E5-CB52-BD6FAF76EDD4}|haobtPC11458_ASM01\\haobtPC11458_ASM01.csproj|d:\\backend_project\\asm1-test\\haobtpc11458_asm01\\haobtpc11458_asm01\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8D00D269-DF34-84E5-CB52-BD6FAF76EDD4}|haobtPC11458_ASM01\\haobtPC11458_ASM01.csproj|solutionrelative:haobtpc11458_asm01\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D00D269-DF34-84E5-CB52-BD6FAF76EDD4}|haobtPC11458_ASM01\\haobtPC11458_ASM01.csproj|d:\\backend_project\\asm1-test\\haobtpc11458_asm01\\haobtpc11458_asm01\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D00D269-DF34-84E5-CB52-BD6FAF76EDD4}|haobtPC11458_ASM01\\haobtPC11458_ASM01.csproj|solutionrelative:haobtpc11458_asm01\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D00D269-DF34-84E5-CB52-BD6FAF76EDD4}|haobtPC11458_ASM01\\haobtPC11458_ASM01.csproj|d:\\backend_project\\asm1-test\\haobtpc11458_asm01\\haobtpc11458_asm01\\models\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D00D269-DF34-84E5-CB52-BD6FAF76EDD4}|haobtPC11458_ASM01\\haobtPC11458_ASM01.csproj|solutionrelative:haobtpc11458_asm01\\models\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\backend_project\\ASM1-Test\\haobtPC11458_ASM01\\haobtPC11458_ASM01\\appsettings.json",
+              "RelativeDocumentMoniker": "haobtPC11458_ASM01\\appsettings.json",
+              "ToolTip": "D:\\backend_project\\ASM1-Test\\haobtPC11458_ASM01\\haobtPC11458_ASM01\\appsettings.json",
+              "RelativeToolTip": "haobtPC11458_ASM01\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-25T07:59:55.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\backend_project\\ASM1-Test\\haobtPC11458_ASM01\\haobtPC11458_ASM01\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "haobtPC11458_ASM01\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\backend_project\\ASM1-Test\\haobtPC11458_ASM01\\haobtPC11458_ASM01\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "haobtPC11458_ASM01\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T07:54:07.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Character.cs",
+              "DocumentMoniker": "D:\\backend_project\\ASM1-Test\\haobtPC11458_ASM01\\haobtPC11458_ASM01\\Models\\Character.cs",
+              "RelativeDocumentMoniker": "haobtPC11458_ASM01\\Models\\Character.cs",
+              "ToolTip": "D:\\backend_project\\ASM1-Test\\haobtPC11458_ASM01\\haobtPC11458_ASM01\\Models\\Character.cs",
+              "RelativeToolTip": "haobtPC11458_ASM01\\Models\\Character.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T07:50:05.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Account.cs",
+              "DocumentMoniker": "D:\\backend_project\\ASM1-Test\\haobtPC11458_ASM01\\haobtPC11458_ASM01\\Models\\Account.cs",
+              "RelativeDocumentMoniker": "haobtPC11458_ASM01\\Models\\Account.cs",
+              "ToolTip": "D:\\backend_project\\ASM1-Test\\haobtPC11458_ASM01\\haobtPC11458_ASM01\\Models\\Account.cs",
+              "RelativeToolTip": "haobtPC11458_ASM01\\Models\\Account.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T07:49:48.923Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

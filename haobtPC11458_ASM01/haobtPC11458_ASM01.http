@@ -1,0 +1,6 @@
+@haobtPC11458_ASM01_HostAddress = http://localhost:5063
+
+GET {{haobtPC11458_ASM01_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
